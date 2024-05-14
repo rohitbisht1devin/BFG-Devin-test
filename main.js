@@ -1,1 +1,1 @@
-const main_key =  'abcdef'
+const hello =  'abcdef'
